@@ -1,10 +1,10 @@
 {
-  "name": "object-extend-js",
+  "name": "object-deep-update",
   "version": "1.0.0",
-  "description": "simple object deep extend module",
+  "description": "simple object deep update module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -17,10 +17,19 @@
     "javascript",
     "merge"
   ],
-  "author": "Zarko Selak <selak.zarko@icloud>",
+  "author": {
+    "name": "Zarko Selak",
+    "email": "selak.zarko@icloud.com",
+    "url": "https://github.com/zarkoselak"
+  },
+
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zarkoselak/object-extend-js/issues"
   },
-  "homepage": "https://github.com/zarkoselak/object-extend-js#readme"
+  "homepage": "https://github.com/zarkoselak/object-extend-js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
 }
