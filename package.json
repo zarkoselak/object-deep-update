@@ -1,0 +1,26 @@
+{
+  "name": "object-extend-js",
+  "version": "1.0.0",
+  "description": "simple object deep extend module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarkoselak/object-extend-js.git"
+  },
+  "keywords": [
+    "object",
+    "extend",
+    "deep",
+    "javascript",
+    "merge"
+  ],
+  "author": "Zarko Selak <selak.zarko@icloud>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zarkoselak/object-extend-js/issues"
+  },
+  "homepage": "https://github.com/zarkoselak/object-extend-js#readme"
+}
