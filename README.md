@@ -1,6 +1,6 @@
 # object-update-js :raised_hands:
 
-Updates <b>ONLY<b> existing properties!!
+Updates <b>ONLY</b> existing properties!!
 
 ## Example
 
