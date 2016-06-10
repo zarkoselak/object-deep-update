@@ -1,5 +1,5 @@
 # object-deep-update :raised_hands:
-[https://travis-ci.org/zarkoselak/object-deep-update.svg?branch=master](https://travis-ci.org/zarkoselak) [![npm version](https://badge.fury.io/js/object-deep-update.svg)](https://badge.fury.io/js/object-deep-update)
+[![Build Status](https://travis-ci.org/zarkoselak/object-deep-update.svg?branch=master)](https://travis-ci.org/zarkoselak/object-deep-update) [![npm version](https://badge.fury.io/js/object-deep-update.svg)](https://badge.fury.io/js/object-deep-update)
 
 Updates <b>ONLY</b> existing properties!!
 
