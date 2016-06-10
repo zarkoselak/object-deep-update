@@ -25,7 +25,8 @@ describe('ObjectExtend', function() {
 		var roll = {
 			face: 'roll',
 			color: {
-				red: false
+				red: false,
+				blue: true
 			}
 		};
 		var result = extend(troll, roll);
