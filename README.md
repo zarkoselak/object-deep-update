@@ -1,11 +1,11 @@
-# object-update-js :raised_hands:
+# object-deep-update :raised_hands:
 
 Updates <b>ONLY</b> existing properties!!
 
 ## Example
 
 ```javascript
-var updateObj = require('object-update-js');
+var updateObj = require('object-deep-update');
 
 var obj1 = {
 	t: 'test1',
@@ -27,7 +27,7 @@ var obj2 = {
 };
 
 var result = updateObj(obj1, obj2);
-result -->
+
 {
 	t: 'test2',
 	te: {
@@ -44,5 +44,5 @@ result -->
 
 ## License
 
-MIT
+MIT © Zarko Selak
 
