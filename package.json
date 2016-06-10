@@ -1,6 +1,6 @@
 {
   "name": "object-deep-update",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple object deep update module",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
     "email": "selak.zarko@icloud.com",
     "url": "https://github.com/zarkoselak"
   },
-
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zarkoselak/object-deep-update/issues"
